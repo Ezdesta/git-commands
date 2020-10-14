@@ -1,0 +1,30 @@
+        Logs
+            are files contaning messages 
+                diffrernt type of log files:
+                    security, system, cron jobs
+                
+                help for tran
+        Basic syslog architecture:
+                /var/log/
+
+                syslog        - UDP
+                syslog-ng     - 
+                rsyslog       - reliable
+
+
+
+        Important log locations:
+
+
+
+        rsyslogd and systemd-journald:
+
+
+
+        Changing date, time, timezones:
+            using timedatectl command
+
+
+
+        Configuring RHEL7 as NTP client:
+
